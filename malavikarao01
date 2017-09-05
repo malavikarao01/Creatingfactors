@@ -1,0 +1,3 @@
+a <- c('Au', 'Ag', 'GM', 'Au', 'GM')
+types<-factor(a) #creating factors
+d<-as.integer(types) #passing the factor to an as.integer file
